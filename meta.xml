@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 1999-2017. Parallels IP Holdings GmbH. All Rights Reserved. -->
+<module>
+  <id>wp-toolkit</id>
+  <name>WordPress Toolkit</name>
+  <description>WordPress Toolkit is a powerful WordPress security and management tool that allows you to mass manage and secure your WordPress instances, plugins and themes.</description>
+  <category>web_app</category>
+  <url>http://plesk.com</url>
+  <version>2.3.1</version>
+  <release>631</release>
+  <vendor>Plesk</vendor>
+  <plesk_min_version>17.0.16</plesk_min_version>
+  <buy_url>https://www.plesk.com/extensions/wordpress-toolkit</buy_url>
+  <help_url>https://docs.plesk.com/en-US/onyx/administrator-guide/plesk-administration/wordpress-toolkit-in-plesk.73563/</help_url>
+  <support_url>https://www.plesk.com/support/</support_url>
+  <!-- Localized descriptions below -->
+  <description xml:lang="ar">مجموعة أدوات تطبيق WordPress هي أدوات إدارة وأمان فعالة بتطبيق WordPress تتيح لك إدارة مثيلات والمكونات الإضافية ونُسُق تطبيق WordPress الخاص بك وتأمينها بشكل شامل.</description>
+  <description xml:lang="ca-ES">El paquet d'eines per a WordPress és una potent eina de gestió i seguretat per a WordPress que li permet gestionar i protegir les seves instàncies, plugins i temes de WordPress de forma massiva.</description>
+  <description xml:lang="cs-CZ">WordPress Toolkit je výkonný nástroj pro zabezpečení a správu WordPress, který umožňuje hromadnou správu a zabezpečení vašich instancí, zásuvných modulů a motivů WordPress.</description>
+  <description xml:lang="da-DK">WordPress Toolkit er et stærkt sikkerheds- og administrationsværktøj til WordPress, som giver dig mulighed for at masseadministrere og -sikre dine WordPress-forekomster, plugins og temaer.</description>
+  <description xml:lang="de-DE">WordPress Toolkit ist ein leistungsstarkes Sicherheits- und Verwaltungstool von WordPress, mit dem Sie Ihre WordPress Instanzen, Plug-ins und Themes gesammelt verwalten und schützen können.</description>
+  <description xml:lang="el-GR">Η Εργαλειοθήκη WordPress είναι ένα πανίσχυρο εργαλείο ασφάλειας και διαχείρισης του WordPress, το οποίο σάς δίνει τη δυνατότητα να διαχειρίζεστε και να ασφαλίζετε ταυτόχρονα όλες τις παρουσίες, τις προσθήκες και τα θέματα WordPress σας.</description>
+  <description xml:lang="es-ES">El paquete de herramientas de WordPress es una potente herramienta de gestión y seguridad para WordPress que le permite gestionar y proteger sus instancias, plugins y temas de WordPress de forma masiva.</description>
+  <description xml:lang="fi-FI">WordPress-työkalupaketti on tehokas väline WordPressin suojaamiseen ja hallitsemiseen, se mahdollistaa useiden WordPress-esiintymien, -laajennusten ja -teemojen hallitsemisen ja suojaamisen samalla kertaa.</description>
+  <description xml:lang="fr-FR">WordPress Toolkit est un puissant outil de sécurité et de gestion WordPress vous permettant de gérer et de protéger en masse vos instances, plug-ins et thèmes WordPress.</description>
+  <description xml:lang="he-IL">ערכת הכלים של WordPress היא כלי אבטחה וניהול מתקדם של WordPress שמאפשר לנהל ולאבטח את המופעים, התוספים וערכות הנושא של WordPress בכמות גדולה.</description>
+  <description xml:lang="hu-HU">A WordPress Toolkit egy hatékony WordPress biztonsági és kezelőeszköz, mely lehetővé teszi WordPress telepített példányai, beépülő moduljai és témái tömeges és biztonságos kezelését.</description>
+  <description xml:lang="id-ID">WordPress Toolkit merupakan alat bantu keamanan dan manajemen WordPress yang memungkinkan Anda untuk mengelola dan mengamankan secara massal instance WordPress, plugin, dan tema Anda.</description>
+  <description xml:lang="it-IT">WordPress Toolkit è un potente strumento di sicurezza e gestione di WordPress che consente di gestire e proteggere le istanze, i plug-in e i temi di WordPress.</description>
+  <description xml:lang="ja-JP">WordPress Toolkit は、高機能な WordPress セキュリティおよび管理ツールであり、WordPress インスタンス、プラグイン、テーマの一括管理やセキュリティ強化が可能です。</description>
+  <description xml:lang="ko-KR">WordPress 툴킷은 WordPress 인스턴스, 플러그인 및 테마를 대량으로 관리하고 보호할 수 있도록 해주는 강력한 WordPress 보안 및 관리 도구입니다.</description>
+  <description xml:lang="ms-MY">Set Peralatan WordPress adalah satu alat keselamatan dan pengurusan WordPress yang berkuasa, membenarkan anda mengurus dan melindungi tika, pemalam dan tema WordPress anda secara keseluruhan.</description>
+  <description xml:lang="nb-NO">WordPress Toolkit er et kraftig sikkerhets- og administrasjonsverktøy for WordPress som lar deg massekontrollere og sikre dine WordPress-instanser, programtillegg og temaer.</description>
+  <description xml:lang="nl-NL">WordPress Toolkit is een krachtig hulpprogramma voor beveiliging en beheer van WordPress waarmee u een groot aantal WordPress-instanties, plugins en thema's tegelijk kunt beheren en beveiligen.</description>
+  <description xml:lang="pl-PL">WordPress Toolkit jest użytecznym narzędziem zabezpieczania i zarządzania WordPress, które pozwala na zarządzanie i zabezpieczanie instancji WordPress, pluginów i motywów.</description>
+  <description xml:lang="pt-BR">O Kit de Ferramentas WordPress é uma ferramenta de gerenciamento e segurança poderosa do WordPress que permite gerenciar em massa e proteger as instâncias, plugins  e temas do WordPress, .</description>
+  <description xml:lang="pt-PT">WordPress Toolkit é uma ferramenta poderosa de segurança e gestão do WordPress que permite a gestão e segurança das suas instâncias, plugins e temas WordPress.</description>
+  <description xml:lang="ro-RO">WordPress Toolkit este un instrument de securitate și de administrare WordPress performant, care vă permite să administrați și să securizați simultan instanțele, pluginurile și temele WordPress.</description>
+  <description xml:lang="ru-RU">WordPress Toolkit - это мощный инструмент для управления и обеспечения безопасности WordPress, позволяющий массово управлять установками WordPress, плагинами и темами и обеспечивать их безопасность.</description>
+  <description xml:lang="sv-SE">WordPress Toolkit är ett kraftigt WordPress säkerhets- och hanteringsverktyg som låter di masshantera och säkra dina WordPress-förekomster, insticksprogram och teman.</description>
+  <description xml:lang="th-TH">WordPress Toolkit คือเครื่องมือสำหรับการรักษาความปลอดภัยและการจัดการ WordPress ที่มีประสิทธิภาพมาก ซึ่งช่วยให้คุณจัดการและรักษาความปลอดภัยตัวอย่าง WordPress, ปลั๊กอิน และธีมของคุณได้</description>
+  <description xml:lang="tl-PH">Ang WordPress Toolkit ay isang makapangyarihang tool para sa seguridad at pamamahala ng WordPress na nagbibigay-daan sa iyong pamahalaan at i-secure ang marami mong mga WordPress instance, plugin at theme.</description>
+  <description xml:lang="tr-TR">WordPress Araç Kiti, WordPress örnek, eklenti ve temalarınızı toplu olarak yönetmenizi ve emniyete almanızı sağlayan güçlü bir WordPress güvenlik ve yönetim aracıdır.</description>
+  <description xml:lang="uk-UA">WordPress Toolkit є потужним інструментом WordPress із забезпечення захисту та управління, що дозволяє вам управляти та забезпечувати захист великої кількості примірників, плагінів та тем WordPress.</description>
+  <description xml:lang="vi-VN">WordPress Toolkit là một công cụ bảo mật và quản trị mạnh mẽ của WordPress cho phép bạn quản trị và bảo mật hàng loại các trường hợp, plugin và chủ đề WordPress của mình.</description>
+  <description xml:lang="zh-CN">WordPress 工具包是功能强大的 WordPress 安全和管理工具，通过该工具包能够批量管理 WordPress 实例、插件和主题以及保证其安全。</description>
+  <description xml:lang="zh-TW">WordPress 工具包是功能強大的 WordPress 安全和管理工具，通過該工具包能夠批量管理 WordPress 實例、外掛程式和主題以及保證其安全。</description>
+</module>

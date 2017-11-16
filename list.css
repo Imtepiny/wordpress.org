@@ -1,0 +1,17 @@
+body .objects-toolbar >.sb-minor{
+    padding-left: 28px;
+}
+body .objects-toolbar >.sb-minor:before{
+    display: inline-block;
+}
+body .objects-toolbar>.sb-minor:before{ background-image:url(../images/toolbar-minor.png)}
+body .objects-toolbar>.sb-minor:not(.btn-disabled):not(.disabled):active:before,.objects-toolbar>.sb-minor:not(.btn-disabled):not(.disabled):focus:before,.objects-toolbar>.sb-minor:not(.btn-disabled):not(.disabled):hover:before{background-image:url(../images/toolbar-minor-active.png)}
+
+body .objects-toolbar >.sb-import{
+    padding-left: 28px;
+}
+body .objects-toolbar >.sb-import:before{
+    display: inline-block;
+}
+body .objects-toolbar>.sb-import:before{ background-image:url(../images/toolbar-import.png)}
+body .objects-toolbar>.sb-import:not(.btn-disabled):not(.disabled):active:before,.objects-toolbar>.sb-import:not(.btn-disabled):not(.disabled):focus:before,.objects-toolbar>.sb-import:not(.btn-disabled):not(.disabled):hover:before{background-image:url(../images/toolbar-import-active.png)}
